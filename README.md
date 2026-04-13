@@ -1,7 +1,6 @@
-# 🚗 IAdesdeCero — Aprendizaje por Refuerzo Evolutivo en Processing
+# 🚗 IAdesdeCero — Fundamentos Basicos sobre la IA y aplicacion del Aprendizaje por Refuerzo Evolutivo en Processing
 
 [![Processing](https://img.shields.io/badge/Processing-4.x-blue.svg)](https://processing.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![AI](https://img.shields.io/badge/AI-Neural%20Networks-orange.svg)]()
 [![GA](https://img.shields.io/badge/Algoritmo-Genético-red.svg)]()
 
