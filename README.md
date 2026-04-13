@@ -8,6 +8,7 @@
 ---
 
 ## 📖 Descripción del Proyecto
+Este proyecto esta inspirado del repositorio: [dino-reinforcement-learning](https://img.shields.io/badge/Algoritmo-Genético-red.svg)
 
 **IAdesdeCero** es un proyecto educativo que implementa un sistema de **Aprendizaje por Refuerzo Evolutivo** desde cero, sin librerías externas de machine learning. El repositorio demuestra cómo una población de agentes de IA (coches autónomos) aprende a navegar una carretera 2D esquivando obstáculos mediante la combinación de **Redes Neuronales Artificiales** y **Algoritmos Genéticos**.
 
@@ -274,11 +275,6 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
-
----
 
 ## 🙏 Agradecimientos
 
